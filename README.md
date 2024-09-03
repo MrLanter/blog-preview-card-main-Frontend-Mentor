@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Please wait few minutes]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/html-semantic-responsive-using-flexbox-with-hover-and-selection-ujNU4cZsqV)
 - Live Site URL: [MrLanter Live Site](https://mrlanter.github.io/blog-preview-card-main-Frontend-Mentor/)
 
 ## My process
